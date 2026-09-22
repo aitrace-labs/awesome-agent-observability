@@ -136,6 +136,7 @@ Enforce policies and constrain agent inputs and outputs at runtime.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Input/output guards built from composable validators that detect and mitigate specific risks.
 - [LLM Guard](https://github.com/protectai/llm-guard) — Security toolkit that sanitizes prompts and responses by chaining multiple scanners.
 - [LangKit](https://github.com/whylabs/langkit) — Toolkit for extracting safety, quality, and security signals from prompts and responses.
+- [fact-gate](https://github.com/AnonZ7/fact-gate) — Deterministic, zero-dependency check of what an agent wrote against what is true (its diff, measured facts, prose); blocks fabricated numbers, dates, names and tools. Runs as a GitHub Action, a Claude Code PreToolUse hook, a git pre-commit hook and a CLI.
 
 ## Red Teaming & Security Testing
 
